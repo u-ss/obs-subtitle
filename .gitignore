@@ -1,0 +1,17 @@
+# secrets
+.env
+ECHO ÇÕ <ON> Ç≈Ç∑ÅB
+# python
+__pycache__/
+*.pyc
+ECHO ÇÕ <ON> Ç≈Ç∑ÅB
+# logs
+*.log
+ECHO ÇÕ <ON> Ç≈Ç∑ÅB
+# obs outputs
+caption_*.txt
+
+# venv
+.venv/
+venv/
+subtitle_gui_config.json
